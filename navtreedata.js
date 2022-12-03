@@ -28,6 +28,7 @@ var NAVTREE =
     [ "Run", "index.html#autotoc_md3", null ],
     [ "Build docs", "index.html#autotoc_md4", null ],
     [ "View docs", "index.html#autotoc_md5", null ],
+    [ "Acknowledgments", "index.html#autotoc_md6", null ],
     [ "Requirements", "Requirements.html", [
       [ "Requirements description", "Requirements.html#Requirements", null ]
     ] ],
