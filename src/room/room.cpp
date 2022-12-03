@@ -6,7 +6,9 @@
 
 /**
  * Computes room floor area.
- * 
+ *
+ * @satisfy{@req{001}}
+ *
  * @return Room area.
  */
 double Room::calculateArea(){   

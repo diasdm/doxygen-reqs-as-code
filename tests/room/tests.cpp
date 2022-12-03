@@ -5,6 +5,8 @@
 /**
  * Lets pretend this is a test.
  * 
+ * @verify{@req{001}}
+ * 
  * @return TODO.
  */
 double testCalculateArea(){   

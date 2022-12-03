@@ -1,0 +1,14 @@
+/**
+@page Requirements
+
+@section Requirements Requirements description
+
+@anchor ROOM_001
+<a>ROOM-001</a>
+Some requirement.
+
+@anchor ROOM_002
+<a>ROOM-002</a>
+Some requirement but different.
+
+*/

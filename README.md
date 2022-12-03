@@ -4,6 +4,8 @@ An attempt to check the feasibility of having requirements as code and using Dox
 
 Code snippets taken from [here](https://www.programiz.com/cpp-programming/object-class).
 
+Doxygen configurations taken from [here](https://stackoverflow.com/questions/537043/custom-tags-with-doxygen).
+
 ## Install dependencies
 
 ```
