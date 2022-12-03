@@ -11,15 +11,15 @@
  *
  * @return Room area.
  */
-double Room::calculateArea(){   
+double Room::calculateArea(){
     return length * breadth;
 }
 
 /**
  * Computes room volume.
- * 
+ *
  * @return Room volume.
  */
-double Room::calculateVolume(){   
+double Room::calculateVolume(){
     return length * breadth * height;
 }

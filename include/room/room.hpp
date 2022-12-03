@@ -9,7 +9,7 @@ class Room {
     public:
         double length;
         double breadth;
-        double height;   
+        double height;
 
         double calculateArea();
         double calculateVolume();
