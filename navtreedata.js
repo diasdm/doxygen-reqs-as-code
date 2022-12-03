@@ -29,7 +29,7 @@ var NAVTREE =
     [ "Build docs", "index.html#autotoc_md4", null ],
     [ "View docs", "index.html#autotoc_md5", null ],
     [ "Acknowledgments", "index.html#autotoc_md6", null ],
-    [ "Requirements", "Requirements.html", [
+    [ "Requirements List", "Requirements.html", [
       [ "Introduction", "Requirements.html#Introduction", null ],
       [ "Requirements description", "Requirements.html#Requirements", null ]
     ] ],
@@ -52,6 +52,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "Requirements", "Requirements.html", null ],
+    [ "Requirements List", "Requirements.html", null ],
     [ "Requirements Implementation", "satisfy.html", null ],
     [ "Requirements Verification", "verify.html", null ]
   ] ]
