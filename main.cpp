@@ -5,6 +5,14 @@
 
 #include "room.hpp"
 
+/**
+ * Room main.
+ *
+ * @param argc Argument number.
+ * @param argv Arguments.
+ *
+ * @return Exit code.
+ */
 int main(int argc, char *argv[])
 {
     // create object of Room class
