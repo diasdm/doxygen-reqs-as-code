@@ -51,7 +51,9 @@ var NAVTREE =
         [ "Functions", "globals_func.html", null ]
       ] ]
     ] ],
-    [ "Requirements", "Requirements.html", null ]
+    [ "Requirements", "Requirements.html", null ],
+    [ "Requirements Implementation", "satisfy.html", null ],
+    [ "Requirements Verification", "verify.html", null ]
   ] ]
 ];
 

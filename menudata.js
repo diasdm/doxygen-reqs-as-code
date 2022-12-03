@@ -35,4 +35,6 @@ var menudata={children:[
 {text:"File Members",url:"globals.html",children:[
 {text:"All",url:"globals.html"},
 {text:"Functions",url:"globals_func.html"}]}]},
-{text:"Requirements",url:"Requirements.html"}]}
+{text:"Requirements",url:"Requirements.html",children:[
+{text:"Requirements Implementation",url:"satisfy.html"},
+{text:"Requirements Verification",url:"verify.html"}]}]}
