@@ -30,6 +30,7 @@ var NAVTREE =
     [ "View docs", "index.html#autotoc_md5", null ],
     [ "Acknowledgments", "index.html#autotoc_md6", null ],
     [ "Requirements", "Requirements.html", [
+      [ "Introduction", "Requirements.html#Introduction", null ],
       [ "Requirements description", "Requirements.html#Requirements", null ]
     ] ],
     [ "Requirement Implementation", "satisfy.html", null ],
@@ -39,7 +40,8 @@ var NAVTREE =
       [ "Class Index", "classes.html", null ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ]
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -48,7 +50,8 @@ var NAVTREE =
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ]
       ] ]
-    ] ]
+    ] ],
+    [ "Requirements", "Requirements.html", null ]
   ] ]
 ];
 

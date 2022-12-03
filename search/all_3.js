@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['testcalculatearea_9',['testCalculateArea',['../tests_8cpp.html#abb171d2cd7069ec1c1a67dc3c35d745b',1,'tests.cpp']]],
-  ['tests_2ecpp_10',['tests.cpp',['../tests_8cpp.html',1,'']]]
+  ['length_4',['length',['../classRoom.html#a5a21483c5eaf2150d1e30e84c58079f9',1,'Room']]]
 ];
