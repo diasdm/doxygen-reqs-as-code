@@ -1,5 +1,5 @@
-/** \file tests.cpp
- * Room class tests.
+/** @file tests.cpp
+ * @brief Room class tests.
  */
 
 /**

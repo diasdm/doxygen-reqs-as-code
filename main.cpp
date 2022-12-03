@@ -1,5 +1,5 @@
-/** \file main.cpp
- * Main file.
+/** @file main.cpp
+ * @brief Main file.
  */
 #include <iostream>
 

@@ -1,6 +1,12 @@
 /**
 @page Requirements
 
+@tableofcontents
+
+@section Introduction Introduction
+
+This document contains the project requirements.
+
 @section Requirements Requirements description
 
 @anchor ROOM_001

@@ -1,5 +1,5 @@
-/** \file room.cpp
- * Room source file.
+/** @file room.cpp
+ * @brief Room source file.
  */
 
 #include "room.hpp"

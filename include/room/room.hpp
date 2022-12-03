@@ -1,5 +1,5 @@
-/** \file room.hpp
- * Room header file.
+/** @file room.hpp
+ * @brief Room header file.
  */
 
 /**
