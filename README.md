@@ -38,3 +38,5 @@ xdg-open ./docs/html/index.html
 Code snippets taken from [here](https://www.programiz.com/cpp-programming/object-class).
 
 Doxygen configurations taken from [here](https://stackoverflow.com/questions/537043/custom-tags-with-doxygen).
+
+Doxygen theme used [doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css).
